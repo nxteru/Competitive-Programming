@@ -46,7 +46,8 @@
 - [問題1(EDPC E Knapsack 2)](https://atcoder.jp/contests/dp/tasks/dp_e)    [解説](https://kyopro-friends.hatenablog.com/entry/2019/01/12/230931)
 - [問題2(EDPC F LCS)](https://atcoder.jp/contests/dp/tasks/dp_f)    [解説](https://qiita.com/drken/items/03c7db44ccd27820ea0d)
 - [問題3(EDPC N Slimes)](https://atcoder.jp/contests/dp/tasks/dp_n)    [解説](https://kyopro-friends.hatenablog.com/entry/2019/01/12/231035)
-- [問題4(JOI10春合宿1-3 Stairs)](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_stairs)    [解説](https://qnighy.github.io/informatics-olympiad/joi2010-day1-stairs-comment.html)
+- [問題4(EDPC P Independent Set)](https://atcoder.jp/contests/dp/tasks/dp_p)    [解説](https://kyopro-friends.hatenablog.com/entry/2019/01/12/231035)
+- [問題5(JOI10春合宿1-3 Stairs)](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_stairs)    [解説](https://qnighy.github.io/informatics-olympiad/joi2010-day1-stairs-comment.html)
 
 ## 最短経路問題の練習
 - [問題1(JOI16予選5 ゾンビ島)](https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e)    [解説](https://www.ioi-jp.org/joi/2015/2016-yo/2016-yo-t5/review/2016-yo-t5-review.html)
