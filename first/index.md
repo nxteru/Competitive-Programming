@@ -1,7 +1,7 @@
 # 第一弾
 第一弾の内容がすでに身についている人はおすすめの問題を解くのがおすすめです
 
-## 第一弾が大丈夫そうな人向けおすすめ問題集
+### 第一弾が大丈夫そうな人向けおすすめ問題集
 - [問題1(JOI18本選2 美術展)](https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_b)    [解説](https://www.ioi-jp.org/joi/2017/2018-ho/2018-ho-t2-review.pdf)
 - [問題2(JOI17予選4 ぬいぐるみの整理)](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)    [解説](https://www.ioi-jp.org/joi/2016/2017-yo/2017-yo-t4/review/2017-yo-t4-review.html)
 - [問題3(JOI15春合宿4-1 Inheritance)](https://atcoder.jp/contests/joisc2015/tasks/joisc2015_k)    [解説](https://www.ioi-jp.org/camp/2015/2015-sp-tasks/2015-sp-d4-inheritance-review.pdf)
