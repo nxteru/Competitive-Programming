@@ -3,11 +3,10 @@
 
 ## 第一弾が大丈夫そうな人向けおすすめ問題集
 - [問題1(JOI18本選2 美術展)](https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_b)    [解説](https://www.ioi-jp.org/joi/2017/2018-ho/2018-ho-t2-review.pdf)
-- [問題2(JOI08本選5 ペンキの色)](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_e)    [解説](https://www.ioi-jp.org/joi/2007/2008-ho-prob_and_sol/2008-ho-review.pdf)
-- [問題3(JOI17予選4 ぬいぐるみの整理)](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)    [解説](https://www.ioi-jp.org/joi/2016/2017-yo/2017-yo-t4/review/2017-yo-t4-review.html)
-- [問題4(JOI15春合宿4-1 Inheritance)](https://atcoder.jp/contests/joisc2015/tasks/joisc2015_k)    [解説](https://www.ioi-jp.org/camp/2015/2015-sp-tasks/2015-sp-d4-inheritance-review.pdf)
-- [問題5(JOI13本選3 現代的な屋敷)](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho3)    [解説](https://www.ioi-jp.org/joi/2012/2013-ho/2013-ho-t3-review.pdf)
-- [問題6(JOI11春合宿4-4 Orienteering)](https://atcoder.jp/contests/joisc2011/tasks/joisc2011_orienteering)    [解説](https://qnighy.github.io/informatics-olympiad/joi2011-day4-orienteering-comment.html)
+- [問題2(JOI17予選4 ぬいぐるみの整理)](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)    [解説](https://www.ioi-jp.org/joi/2016/2017-yo/2017-yo-t4/review/2017-yo-t4-review.html)
+- [問題3(JOI15春合宿4-1 Inheritance)](https://atcoder.jp/contests/joisc2015/tasks/joisc2015_k)    [解説](https://www.ioi-jp.org/camp/2015/2015-sp-tasks/2015-sp-d4-inheritance-review.pdf)
+- [問題4(JOI13本選3 現代的な屋敷)](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho3)    [解説](https://www.ioi-jp.org/joi/2012/2013-ho/2013-ho-t3-review.pdf)
+- [問題5(JOI11春合宿4-4 Orienteering)](https://atcoder.jp/contests/joisc2011/tasks/joisc2011_orienteering)    [解説](https://qnighy.github.io/informatics-olympiad/joi2011-day4-orienteering-comment.html)
 
 
 ## 座標圧縮
@@ -17,12 +16,15 @@
 ## 二次元累積和
 - [資料](https://algo-logic.info/submatrix-sum-queries/)
 - [問題1(JOI11本選1 惑星探査)](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1)
-- [問題2(AOJ2426 宝探し)](https://onlinejudge.u-aizu.ac.jp/problems/2426)    [解説(スライド14ページ目から)](https://www.slideshare.net/hcpc_hokudai/za-atsu20170328)
 
 ## いもす法
 - [資料](https://imoz.jp/algorithms/imos_method.html)
 - [問題1(ABC183D Water Heater)](https://atcoder.jp/contests/abc183/tasks/abc183_d)    [解説](https://atcoder.jp/contests/abc183/editorial/284)
 - [問題2(JOI12本選4 釘)](https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4)    [解説](https://www.ioi-jp.org/joi/2011/2012-ho-prob_and_sol/2012-ho-t4-review.pdf)
+
+## 上3つの確認問題
+- [問題1(AOJ2426 宝探し)](https://onlinejudge.u-aizu.ac.jp/problems/2426)    [解説(スライド14ページ目から)](https://www.slideshare.net/hcpc_hokudai/za-atsu20170328)
+- [問題2(JOI08本選5 ペンキの色)](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_e)    [解説](https://www.ioi-jp.org/joi/2007/2008-ho-prob_and_sol/2008-ho-review.pdf)
 
 ## Union Find
 - [資料(問題ページにUnion Findの解説スライドがあります)](https://atcoder.jp/contests/atc001/tasks/unionfind_a)
