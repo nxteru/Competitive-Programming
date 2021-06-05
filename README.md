@@ -10,5 +10,5 @@
 ## セット1
 - [cave](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/cave.md)
 - [gift](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/gift.md)
-- [rings]
+- [rings](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/rings.md)
 - [stations]
