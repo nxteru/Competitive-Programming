@@ -11,4 +11,10 @@
 - [cave](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/cave.md)
 - [gift](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/gift.md)
 - [rings](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/rings.md)
-- [stations](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/stations.md)          
+- [stations](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/stations.md) 
+
+## セット2
+- [line](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/line.md)
+- [molecules](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/molecules.md)
+- [rail](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/rail.md)
+- [ricehub](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/ricehub.md)
