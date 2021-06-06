@@ -8,11 +8,11 @@
 
 根からdfsをして各頂点について最初に訪れたタイミングと，その頂点を出るタイミングを記録する  
 counter = 0  
-dfs(station v):  
+dfs(station v):{  
     in[v] = counter++  
     call dfs(c) for each child c of v  
     out[v] = counter++  
- 
+}  
 call dfs(root)  
 in,outは2000未満だから頂点vのラベルとしてin[v]*2000+out[v]を用いる  
 すると(ラベル)/2000,ラベル%2000でそれぞれin,outを復元できる．  
