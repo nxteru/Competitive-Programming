@@ -14,7 +14,7 @@
 - [stations](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/stations.md) 
 
 ## セット2
-- [line](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/line.md)
+- [line]
 - [molecules](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/molecules.md)
-- [rail](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/rail.md)
-- [ricehub](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/ricehub.md)
+- [rail]
+- [ricehub]
