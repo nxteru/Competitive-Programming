@@ -17,4 +17,4 @@
 - [line]
 - [molecules](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/molecules.md)
 - [rail]
-- [ricehub]
+- [ricehub](https://github.com/nxteru/Competitive-Programming/blob/main/EGOI/ricehub.md)
